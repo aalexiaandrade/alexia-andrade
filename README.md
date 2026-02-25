@@ -94,9 +94,9 @@ Atualmente também aplico esses conhecimentos em ambiente corporativo, desenvolv
 ## 🔥 Áreas de Interesse  
 
 ✔️ Desenvolvimento de Sistemas  
-✔️ Front-end e Back-end
-✔️ Automação Inteligente 
-✔️ RPA
+✔️ Front-end e Back-end  
+✔️ Automação Inteligente  
+✔️ RPA  
 ✔️ Metodologias Ágeis (SCRUM / Kanban)  
 ✔️ Clean Code  
 
