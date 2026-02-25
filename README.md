@@ -5,26 +5,32 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Aléxia Fernanda"
+        self.name = "Aléxia Andrade"
         self.role = "Software Engineering Student"
-        self.focus = ["Automation", "Data", "Efficiency"]
-        self.mindset = "Solve. Automate. Optimize."
+        self.interests = [
+            "Software Development",
+            "Architecture",
+            "Automation",
+            "Clean Code"
+        ]
+        self.mindset = "Design. Build. Optimize."
 ```
 
-🎓 Estudante de Engenharia de Software — PUC Minas  
-💼 Assistente de Dados — MRV Engenharia  
-⚡ Automação | Dados | Processos Inteligentes  
+🎓 Engenharia de Software — PUC Minas  
+💻 Desenvolvimento | Sistemas | Programação  
+🧠 Arquitetura | Estrutura de Dados | Boas Práticas  
 
 ---
 
 ## ✨ Sobre Mim  
 
-Sou movida por **resolver problemas de forma inteligente**.  
-Atualmente aplico **Python, SQL e RPA** para otimizar processos, reduzir retrabalho e gerar indicadores estratégicos.
+Sou estudante de Engenharia de Software com foco em desenvolvimento de sistemas e construção de soluções escaláveis. Tenho experiência prática em programação com Python, Java, C/C++ e SQL, aplicando lógica, organização de código e modelagem na criação de soluções eficientes.
 
-Gosto de organizar o caos em código limpo, automatizar o repetitivo e transformar dados em decisões.
+Tenho interesse em arquitetura de software, estrutura de dados e boas práticas de desenvolvimento. Busco evoluir constantemente minhas habilidades técnicas e aprofundar meu conhecimento em programação e metodologias ágeis.
 
-> 💡 Minha missão: criar soluções que economizem tempo, aumentem eficiência e façam sentido para quem usa.
+Atualmente também aplico esses conhecimentos em ambiente corporativo, desenvolvendo automações e soluções baseadas em dados.
+
+> 💡 Acredito que código bem estruturado é a base para soluções inteligentes e sustentáveis.
 
 ---
 
@@ -64,23 +70,45 @@ Gosto de organizar o caos em código limpo, automatizar o repetitivo e transform
 
 ---
 
-## 🔥 O que eu construo  
+## 💼 Experiência Profissional  
 
-✔️ Automações com Python para eliminar tarefas repetitivas  
-✔️ Robôs (RPA) para fluxos corporativos  
-✔️ Consultas SQL estratégicas para análise de dados  
-✔️ Dashboards inteligentes no Power BI  
-✔️ Projetos acadêmicos com foco em lógica, estrutura e boas práticas  
+### 🏢 MRV Engenharia e Participações S.A  
+**Assistente de Dados / Negociadora**  
+📍 Set. 2022 – Atual  
+
+- Automação de tarefas e fluxos manuais utilizando Python e RPA  
+- Manipulação e consulta de dados com SQL (SQL Server e Cloud SQL - GCP)  
+- Desenvolvimento de dashboards e indicadores no Power BI  
+- Análise e otimização de processos internos  
+- Apoio na tomada de decisão baseada em dados  
+
+**Aprendiz Assistente Administrativo**  
+📍 Nov. 2019 – Fev. 2021  
+
+- Suporte administrativo  
+- Controle e organização de documentos  
+- Atendimento interno e apoio às demandas operacionais  
+
+---
+
+## 🔥 Áreas de Interesse  
+
+✔️ Desenvolvimento de Sistemas  
+✔️ Front-end e Back-end
+✔️ Automação Inteligente 
+✔️ RPA
+✔️ Metodologias Ágeis (SCRUM / Kanban)  
+✔️ Clean Code  
 
 ---
 
 ## 🌱 Em evolução constante  
 
-- Modelagem de processos e negócios  
-- Arquitetura de Computadores  
+- Modelagem de Processos e Negócios 
 - Banco de Dados  
-- Programação Modular  
-- Clean Code  
+- Arquitetura de Computadores
+- Programação Modular
+- Escalabilidade e organização de código  
 
 ---
 
